@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first doc
+=======
+handson2 it is first doc
+>>>>>>> c9c79e8b4eda889344e943fe5564d2546743cc20
 2行目
