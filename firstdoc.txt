@@ -1,2 +1,2 @@
-main first doc
+first doc
 2行目
